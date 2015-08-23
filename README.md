@@ -15,7 +15,9 @@
 
 ## Course Details
 
-### Website: https://github.com/GWU-KIM-CSCI/6212-Fall-2015
+### Website
+
+* https://github.com/GWU-KIM-CSCI/6212-Fall-2015
 
 ### Textbook
 
