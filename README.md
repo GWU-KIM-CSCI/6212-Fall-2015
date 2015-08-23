@@ -15,6 +15,8 @@
 
 ## Course Details
 
+### Website: https://github.com/GWU-KIM-CSCI/6212-Fall-2015
+
 ### Textbook
 
 * *Optional*: "Introduction to Algorithms (Third Edition)" Cormen, Leiserson, Rviest, Stein - The MIT Press
@@ -26,9 +28,19 @@
 * 35% - Closed-book Final
 * 5% - Optional Project
 
+### Homeworks
+
+There will be homework assignments every week. However, they are not graded. They are purely optional.
+However, I highly recommend doing them. It will greatly help you towards the midterm and final. The answers
+to the homework will be posted week before the midterm and the final. Homework will be posted on the website.
+
 ### Make-up Exam/Quiz
 
 No make-up exam/quiz will be given except for documented illness or personal emergency. The instructor must be notified at least day PRIOR to the scheduled exam time in order for a make-up exam to be granted. A 15-minute quiz will be given at the beginning of class (12:45-1:00pm). You should arrive in class on time. No make up for missed quizes.
+
+### Lecture slides
+
+Lecture slides will be posted to the website prior to each lecture.
 
 ### Schedule
 Schedules are subject to change
