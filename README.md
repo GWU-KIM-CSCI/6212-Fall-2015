@@ -35,18 +35,18 @@ Schedules are subject to change
 
 - Week 1  (09/03/2015) - Intro/Bound Theory
 - Week 2  (09/10/2015) - No Class
-- Week 3  (09/17/2015) - Divide and Conquer
+- Week 3  (09/17/2015) - Divide and Conquer (quiz)
 - Week 4  (09/24/2015) - Divide and Conquer
-- Week 5  (10/01/2015) - Greedy Algorithms
-- Week 6  (10/08/2015) - Greedy Algorithms
-- Week 7  (10/15/2015) - Catch up lecture / Review
+- Week 5  (10/01/2015) - Greedy Algorithms (quiz)
+- Week 6  (10/08/2015) - Greedy Algorithms 
+- Week 7  (10/15/2015) - Catch up lecture / Review (quiz)
 - Week 8  (10/22/2015) - Midterm
 - Week 9  (10/29/2015) - Dynamic Prgoramming
-- Week 10 (11/05/2015) - Dynamic Prgoramming
+- Week 10 (11/05/2015) - Dynamic Prgoramming (quiz)
 - Week 11 (11/12/2015) - Backtracking/Branch and Bound 
-- Week 12 (11/19/2015) - Theory of Computation
+- Week 12 (11/19/2015) - Theory of Computation (quiz)
 - Week 13 (11/26/2015) - No Class (Thanksgiving)
-- Week 14 (12/03/2015) - Catch up lecture / Review
+- Week 14 (12/03/2015) - Catch up lecture / Review (quiz)
 
 ### Course Outline
 
