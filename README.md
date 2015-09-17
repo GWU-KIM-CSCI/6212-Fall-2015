@@ -53,7 +53,7 @@ Schedules are subject to change
 - Week 4  (09/24/2015) - Divide and Conquer
 - Week 5  (10/01/2015) - Greedy Algorithms (quiz)
 - Week 6  (10/08/2015) - Greedy Algorithms 
-- Week 7  (10/15/2015) - Catch up lecture / Review (quiz)
+- Week 7  (10/15/2015) - Graph Theory / Review (quiz)
 - Week 8  (10/22/2015) - Midterm
 - Week 9  (10/29/2015) - Dynamic Prgoramming
 - Week 10 (11/05/2015) - Dynamic Prgoramming (quiz)
