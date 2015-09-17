@@ -58,9 +58,9 @@ Schedules are subject to change
 - Week 9  (10/29/2015) - Dynamic Prgoramming
 - Week 10 (11/05/2015) - Dynamic Prgoramming (quiz)
 - Week 11 (11/12/2015) - Backtracking/Branch and Bound 
-- Week 12 (11/19/2015) - Theory of Computation (quiz)
+- Week 12 (11/19/2015) - Theory of Computation (quiz) / Review
 - Week 13 (11/26/2015) - No Class (Thanksgiving)
-- Week 14 (12/03/2015) - Catch up lecture / Review (quiz)
+- Week 14 (12/03/2015) - Final Exam
 
 ### Course Outline
 
