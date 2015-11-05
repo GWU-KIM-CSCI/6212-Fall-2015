@@ -66,7 +66,7 @@ The below input file represents the following graph:
     0 0 0 4
     3 0 0 0
     1
-    C:\> quicksort.exe input.txt
+    C:\> dijkstra.exe input.txt
     0
     5
     1
